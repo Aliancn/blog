@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\themes"
+    "\\content\\posts",
+    "\\layouts",
+    "\\layouts\\_default",
+    "\\static\\image",
+    "\\themes",
+    "\\themes\\hugo-PaperMod",
+    "\\themes\\hugo-PaperMod\\layouts",
+    "\\themes\\hugo-PaperMod\\layouts\\partials"
   ],
-  "SelectedNode": "\\themes",
+  "SelectedNode": "\\themes\\hugo-PaperMod\\layouts\\partials\\post_canonical.html",
   "PreviewInSolutionExplorer": false
 }
