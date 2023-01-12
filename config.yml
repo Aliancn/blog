@@ -1,5 +1,5 @@
-baseURL: "https://regal-axolotl-7ab15c.netlify.app" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+baseURL: "https://chuseng.netlify.app" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: CHuSeng
 paginate: 5
 theme: hugo-PaperMod
 
@@ -38,7 +38,7 @@ languages:
                 - name: WiKi
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 - name: Discord
-                  url: https://discord.gg
+                  url: https://discord.gg/ahpmTvhVmp
 
     fr:
         languageName: ":fr:"
@@ -104,8 +104,9 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    title: "CHuSeng's blog"
+    description: "CHuSeng's blog - https://chuseng.netlify.app"
+    author: CHuSeng
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -136,26 +137,26 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "CHuSeng's Site"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Welcome to CHuSeng's Page.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - I wish to share my life and learning experiences here.
 
-            - Do give a 🌟 on Github !
+            - This site is going to be optimized with my progress.
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - This site is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://github.com/Aliancn"
+        - name: bilibili
+          url: "https://space.bilibili.com/1786800406"
         - name: Rss
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/Aliancn/blog/tree/master/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
