@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-tarjan.zh",
+      "appliesTo": "content/posts/myblog/tarjan.zh.md",
+      "type": "launch"
+    }
+  ]
+}

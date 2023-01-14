@@ -3,6 +3,10 @@ title: CHuSeng
 paginate: 5
 theme: hugo-PaperMod
 
+languageCode : "zh-cn"
+defaultContentLanguage : "zh"
+defaultContentLanguageInSubdir : true
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,6 +23,29 @@ minify:
 languages:
     en:
         languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: WiKi
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Discord
+                  url: https://discord.gg/ahpmTvhVmp
+
+    zh:
+        languageName: "中文"
         weight: 1
         taxonomies:
           category: categories
@@ -122,7 +149,7 @@ params:
     ShowToc: true
     # comments: false
     images: ["papermod-cover.png"]
-
+   
     profileMode:
         enabled: false
         title: PaperMod

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\posts",
+    "\\content\\posts\\myblog"
   ],
-  "SelectedNode": "\\config.yml",
+  "SelectedNode": "\\content\\posts\\myblog\\tarjan.zh.md",
   "PreviewInSolutionExplorer": false
 }
