@@ -41,8 +41,8 @@ languages:
                   weight: 10
                 - name: WiKi
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name:  Hugo
+                  url: https://gohugo.io/
 
     zh:
         languageName: "中文"
@@ -64,8 +64,8 @@ languages:
                   weight: 10
                 - name: WiKi
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name: Hugo
+                  url: https://gohugo.io/
 
     fr:
         languageName: ":fr:"
