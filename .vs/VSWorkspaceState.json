@@ -3,10 +3,8 @@
     "",
     "\\content",
     "\\content\\posts",
-    "\\content\\posts\\myLife",
-    "\\themes\\hugo-PaperMod\\layouts",
-    "\\themes\\hugo-PaperMod\\layouts\\_default\\_markup"
+    "\\content\\posts\\myLife"
   ],
-  "SelectedNode": "\\content\\posts\\myLife\\_index.md",
+  "SelectedNode": "\\config.yml",
   "PreviewInSolutionExplorer": false
 }
