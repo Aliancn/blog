@@ -3,8 +3,10 @@
     "",
     "\\content",
     "\\content\\posts",
-    "\\content\\posts\\myblog"
+    "\\content\\posts\\myLife",
+    "\\themes\\hugo-PaperMod\\layouts",
+    "\\themes\\hugo-PaperMod\\layouts\\_default\\_markup"
   ],
-  "SelectedNode": "\\content\\posts\\myblog\\tarjan.zh.md",
+  "SelectedNode": "\\content\\posts\\myLife\\_index.md",
   "PreviewInSolutionExplorer": false
 }
