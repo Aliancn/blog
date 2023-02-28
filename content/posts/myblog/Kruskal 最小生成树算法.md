@@ -1,3 +1,15 @@
+---
+
+title: "Kruskal"
+summary: "Kruskal算法的证明和实现"
+date: 2023-01-15
+weight: 
+tags: ["Kruskal"]
+author: "CHuSeng"
+draft: false
+isCJKLanguage: true
+---
+
 # Kruskal 最小生成树算法
 
 ### 生成树与最小生成树
